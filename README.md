@@ -4,7 +4,7 @@
 # Student Management System
 
 This is a student management system built using **Python 3**, **Django 5**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
-
+![screenshot](Screenshot.png)
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
